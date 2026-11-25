@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calorie Calculator</string>
+    <string name="title">Daily Calorie Calculator</string>
+    <string name="subtitle">Problem Statement 3: Estimate your daily calorie requirement based on your age, weight, and activity level.</string>
+
+    <string name="age_label">Age (in years)</string>
+    <string name="age_hint">Enter your age (e.g., 25)</string>
+
+    <string name="weight_label">Weight (in kilograms)</string>
+    <string name="weight_hint">Enter your weight in kg (e.g., 70.0)</string>
+
+    <string name="activity_label">Activity Level</string>
+
+    <string name="calculate_button">Calculate Calories</string>
+    <string name="reset_button">Clear</string>
+
+    <string name="results_heading">Estimated Daily Calories</string>
+    <string name="category_label">Activity Category:</string>
+    <string name="bmr_label">Base Metabolic Rate (BMR):</string>
+
+    <string name="error_empty">Please enter both age and weight.</string>
+    <string name="error_invalid_age">Please enter a valid age between 1 and 120.</string>
+    <string name="error_invalid_weight">Please enter a valid weight between 5 and 400 kg.</string>
+</resources>

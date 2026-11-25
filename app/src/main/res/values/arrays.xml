@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="activity_levels">
+        <item>Sedentary</item>
+        <item>Moderately Active</item>
+        <item>Very Active</item>
+    </string-array>
+</resources>
